@@ -1,6 +1,7 @@
 # Mon site DIY ?
 
 Parce que je ne suis pas un informaticien de formation, la réalisation de ces pages internet aura été un peu fastidieuse. Néanmoins, avec l'aide de mes camarades de jeu à l'ESRF, j'ai compris 2/3 bricoles (HMTL/CSS/javascript et le générateur statique de site). Et j'ai finalement - enfin! - trouvé le [tuto YT](https://www.youtube.com/watch?v=Q-YA_dA8C20) qui sauve la vie.
+See also the [documentation page](https://squidfunk.github.io/mkdocs-material/reference/images/) of the `material-for-mkdoc` theme.
 
 ## Quelques éléments de vocabulaire
 
