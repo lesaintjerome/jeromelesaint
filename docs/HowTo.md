@@ -28,3 +28,12 @@ It requires:
 On the GitHub repo, we need to set that it is Github Pages. `Settings/Pages/`. Deploy from branch and choose the branch `gh-pages` that has just been created by the `ci.yml` file.
 
 The CI then processes the required action and in `Actions/pages build and deployment/`, one can check the external adress.  Done!
+
+## A propos des cartes IGN et des traces.
+
+- Pour faire les traces GPX, [GPXStudio](https://gpx.studio/) est pas mal du tout. En pointant sur des points sur les chemins identifiés sur le fonds de carte, il créé l'itinéraire. La trace GPX peut ensuite être exportée.
+- Pour générer les fonds de carte, tout se fait dans le [Geoportail](https://www.geoportail.gouv.fr):
+  - Avec un compte, on peut uploader les traces GPX (qui seront conservées dans le compte).
+  - Les traces GPX sont alors accessibles comme fond de carte.
+  - Il suffit alors de partager et insérer le bout de code HTML dans la page.
+- La page, qui contient toutes les étapes, est un peu lourde à charger... A voir.
