@@ -1,35 +1,28 @@
 # Welcome
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenue sur ma page personnel.
+Je suis Jérome Lesaint, scientifique à l'[ESRF](www.esrf.fr) (European Synchrotron Radiation Facility) à Grenoble, depuis le 1 mai 2023.
 
-## Commands
+Mes activités de recherches portent sur la tomographie par rayons X et plus spécifiquement sur les conditions de rang des opérateurs intégraux en jeu. Ces conditions peuvent être utile en vue de la réduction de certains artefacts de reconstruction (calibration géométrique, mouvement de l'objet) ou 
+
+## Mes sujets de recherche à l'ESRF
+Bien que les contours de mon projet de recherche à l'ESRF soit encore en cours de définition, je vais travailler dans les directions suivantes :
+- La tomographie de fluorescence (avec Peter Cloetens notamment et l'équipe de la ligne ID16).
+- L'utilisation des outils d'intelligence artificielle en vue de l'amélioration de la qualité des images tomographiques (notamment, correction des artefacts d'anneau dans un premier temps, avec Benoit Cordonnier)
+- L'exploration des conditions de rang dans la géométrie d'acquisition d'une ligne synchrotron (i.e. géométrie parallèle), notamment pour la calibration géométrique de l'acquisition.
+
+
+## Publications
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Enseignement
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        GTA/
-            0-gtaTotal.md
-            1-gta.md
-            2-gta.md
-            3-gta.md
-            4-gta.md
-            5-gta.md
-            6-gta.md
-            7-gta.md
-            8-gta.md
-            9-gta.md
-            10-gta.md
-            11-gta.md
-            12-gta.md
-            13-gta.md
-            14-gta.md
-            15-gta.md
-            16-gta.md
-            
+Avant de finaliser une reconversion dans la recherche, j'étais professeur agrégé de mathématiques dans le secondaire (j'ai eu des classes de la sixième à la terminale, dans divers établissements).
+Depuis que j'ai quitté l'enseignement pour la recherche, j'ai toujours voulu garder un lien avec l'enseignement. J'en enseigné dans les modules de mathématiques de première année et dans le cours de tomographie/imagerie médicale en troisième année à l'(ENSIMAG)[https://ensimag.grenoble-inp.fr/].
+
+Depuis la rentrée 2023, je suis Enseignant-Chercheur attaché à l'Université Grenoble Alpes. Je suis en charge du module IMAGE d'un cours d'introduction aux mathématiques appliquées au (DLST)[https://dlst.univ-grenoble-alpes.fr/] (Département Licence Scients et Technologies) de l'UGA.
+
