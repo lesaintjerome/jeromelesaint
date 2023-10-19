@@ -1,13 +1,14 @@
 # Welcome
 
 Bienvenue sur ma page personnel.
-Je suis Jérome Lesaint, scientifique à l'[ESRF](www.esrf.fr) (European Synchrotron Radiation Facility) à Grenoble, depuis le 1 mai 2023.
+Je suis Jérome Lesaint, scientifique à l'[ESRF](https://www.esrf.fr) (European Synchrotron Radiation Facility) à Grenoble, depuis le 1 mai 2023.
 
 Mes activités de recherches portent sur la tomographie par rayons X et plus spécifiquement sur les conditions de rang des opérateurs intégraux en jeu. Ces conditions peuvent être utile en vue de la réduction de certains artefacts de reconstruction (calibration géométrique, mouvement de l'objet) ou 
 
 ## Mes sujets de recherche à l'ESRF
 Bien que les contours de mon projet de recherche à l'ESRF soit encore en cours de définition, je vais travailler dans les directions suivantes :
-- La tomographie de fluorescence (avec Peter Cloetens notamment et l'équipe de la ligne ID16).
+
+-  La tomographie de fluorescence (avec Peter Cloetens notamment et l'équipe de la ligne ID16).
 - L'utilisation des outils d'intelligence artificielle en vue de l'amélioration de la qualité des images tomographiques (notamment, correction des artefacts d'anneau dans un premier temps, avec Benoit Cordonnier)
 - L'exploration des conditions de rang dans la géométrie d'acquisition d'une ligne synchrotron (i.e. géométrie parallèle), notamment pour la calibration géométrique de l'acquisition.
 

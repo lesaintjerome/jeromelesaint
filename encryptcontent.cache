@@ -1,0 +1,5 @@
+kdf_iterations: 10000
+obfuscate: {}
+password:
+  jerome: d710190e9243b7beeab284a9db9b7b9d133e0274be5ff0035ea23b47464efbbd;7a4cd32b160490791b558531a30f90d2
+userpass: {}
