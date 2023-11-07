@@ -10,7 +10,8 @@ Cette première étape nous emène de Saint Gingolphe à la frontière franco-su
 
 Plus courte pour se laisser le temps de nous rendre à Saint Gingolph.
 
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.786351071572607,46.38443729607033&z=14&l0=ORTHOIMAGERY.ORTHOPHOTOS::GEOPORTAIL:OGC:WMTS(0;h)&l1=n_vent_iso_l(0;h)&l2=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l3=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d4=4850601(1)&d5=4892800(1)&permalink=yes" allowfullscreen></iframe>
+<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.790656577581283,46.382238853617224&z=14&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4892800(1)&permalink=yes" allowfullscreen></iframe>
+
 
 ## Le profil
 
