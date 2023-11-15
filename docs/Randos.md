@@ -13,7 +13,8 @@ Départ depuis le col de Marcieu. Hyper beau et varié. Montée à l'Aulp du Seu
 ## [Belledonne] Grand Colon - Col de la Pra - Lac du Crozet - 15km - 1200mD+
 Là encore, grand classique de Grenoble, le Grand Colon. Chouette boucle. Descente sur lac Merla et plaine de la Pra. Retour par le lac du Crozet.
 
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=5.923839246068377,45.172755666342994&z=14&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4905580(1)&permalink=yes" allowfullscreen></iframe>
+<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=5.919329748335639,45.16977898296011&z=14&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4905580(1)&permalink=yes" allowfullscreen></iframe>
+
 
 ## [Belledonne] Pointe de la Sitre - Col du loup - Lac Crozet - 13km - 1100mD+
 
