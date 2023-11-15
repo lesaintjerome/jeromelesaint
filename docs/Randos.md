@@ -15,3 +15,6 @@ Là encore, grand classique de Grenoble, le Grand Colon. Chouette boucle.
 
 <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=5.923839246068377,45.172755666342994&z=14&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4905580(1)&permalink=yes" allowfullscreen></iframe>
 
+## Pointe de la Sitre - Col du loup - Lac Crozet - 13km - 1100mD+
+
+<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=5.925615079804862,45.18312395175349&z=14&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4905574(1)&permalink=yes" allowfullscreen></iframe>
