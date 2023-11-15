@@ -19,3 +19,4 @@
     * [Etape 16 : Arpont - Plan Sec](GTA/16-gta.md)
     * [Etape 17 : Plan sec - Modane](GTA/17-gta.md)
 * [What Puzzles Me](WhatPuzzlesMe.md)
+* [Randos](Randos.md)

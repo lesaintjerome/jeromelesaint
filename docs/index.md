@@ -23,7 +23,7 @@ Bien que les contours de mon projet de recherche à l'ESRF soit encore en cours 
 ## Enseignement
 
 Avant de finaliser une reconversion dans la recherche, j'étais professeur agrégé de mathématiques dans le secondaire (j'ai eu des classes de la sixième à la terminale, dans divers établissements).
-Depuis que j'ai quitté l'enseignement pour la recherche, j'ai toujours voulu garder un lien avec l'enseignement. J'en enseigné dans les modules de mathématiques de première année et dans le cours de tomographie/imagerie médicale en troisième année à l'(ENSIMAG)[https://ensimag.grenoble-inp.fr/].
+Depuis que j'ai quitté l'enseignement pour la recherche, j'ai toujours voulu garder un lien avec l'enseignement. J'en enseigné dans les modules de mathématiques de première année et dans le cours de tomographie/imagerie médicale en troisième année à l'[ENSIMAG](https://ensimag.grenoble-inp.fr/).
 
-Depuis la rentrée 2023, je suis Enseignant-Chercheur attaché à l'Université Grenoble Alpes. Je suis en charge du module IMAGE d'un cours d'introduction aux mathématiques appliquées au (DLST)[https://dlst.univ-grenoble-alpes.fr/] (Département Licence Scients et Technologies) de l'UGA.
+Depuis la rentrée 2023, je suis Enseignant-Chercheur attaché à l'Université Grenoble Alpes. Je suis en charge du module IMAGE d'un cours d'introduction aux mathématiques appliquées au [DLST](https://dlst.univ-grenoble-alpes.fr/) (Département Licence Scients et Technologies) de l'UGA.
 
