@@ -11,10 +11,12 @@ Départ depuis le col de Marcieu. Hyper beau et varié. Montée à l'Aulp du Seu
 <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=5.891355490545337,45.34915272588333&z=14&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4905577(1)&permalink=yes" allowfullscreen></iframe>
 
 ## Grand Colon - Col de la Pra - Lac du Crozet - 15km - 1200mD+
-Là encore, grand classique de Grenoble, le Grand Colon. Chouette boucle.
+Là encore, grand classique de Grenoble, le Grand Colon. Chouette boucle. Descente sur lac Merla et plaine de la Pra. Retour par le lac du Crozet.
 
 <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=5.923839246068377,45.172755666342994&z=14&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4905580(1)&permalink=yes" allowfullscreen></iframe>
 
 ## Pointe de la Sitre - Col du loup - Lac Crozet - 13km - 1100mD+
+
+A peu près au même point de départ que la précédente, mais la boucle est assez différente. Le col du Loup est vraiment très beau. La descente sur le Crozet sympa. Belle boucle.
 
 <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=5.925615079804862,45.18312395175349&z=14&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4905574(1)&permalink=yes" allowfullscreen></iframe>
