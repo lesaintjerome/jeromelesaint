@@ -2,16 +2,8 @@
 
 ## L'itinéraire
 
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.793260762950453,46.30350225786765&z=13&l0=ORTHOIMAGERY.ORTHOPHOTOS::GEOPORTAIL:OGC:WMTS(0;h)&l1=n_vent_iso_l(0;h)&l2=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l3=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d4=4850566(1)&permalink=yes" allowfullscreen></iframe>
+<iframe src="https://gpx.studio/?state=%7B%22ids%22:%5B%221E00CX7n82pzEIq1fJ77jI3iHRA_Duw4k%22%5D%7D&embed" width="100%" height="500" frameborder="0" allowfullscreen><p><a href="https://gpx.studio/?state=%7B%22ids%22:%5B%221E00CX7n82pzEIq1fJ77jI3iHRA_Duw4k%22%5D%7D"></a></p></iframe>
 
-
-## Itinéraire bis
-
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.8173978379152125,46.33260720573293&z=13&l0=ORTHOIMAGERY.ORTHOPHOTOS::GEOPORTAIL:OGC:WMTS(0;h)&l1=n_vent_iso_l(0;h)&l2=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l3=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d4=4925431(1)&permalink=yes" allowfullscreen></iframe>
-
-Distance : 13,36km
-D+ : 1245m
-D- : 1174m
 
 ## Le profil
 
