@@ -1,4 +1,4 @@
-# Etape 9 : Bionassay - Refuge Nant Borrant
+# Etape 9 : Les Contamies - La Croix du Bonhomme
 
 ## L'itinéaire
 

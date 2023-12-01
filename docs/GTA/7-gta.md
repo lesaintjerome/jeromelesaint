@@ -8,6 +8,7 @@
 <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.75094615196397,45.85744529289212&z=13&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4925437(1)&permalink=yes" allowfullscreen></iframe>
 
 
-## Le profil
+## Logistique
+Aux Houches. Logement à l'hotel.
 
 ## Les photos

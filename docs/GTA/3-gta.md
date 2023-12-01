@@ -1,4 +1,4 @@
-# Etape 3 : Trabenttaz - Refuge de Chéséry
+# Etape 3 : Chappelle d'abondance - Refuge de Chéséry
 
 ## L'tinéraire
 
@@ -13,6 +13,9 @@ D+ : 1442m
 D- : 479m
 
 
-## Le profil
+## Logistique
+
+[Réfuge de chésery](https://www.lacvert.ch/fr/r%C3%A9servation/) : CASH uniquement. Camping interdit autour du réfuge. En Suisse. 35 places.
+
 
 ## Les photos

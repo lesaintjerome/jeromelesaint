@@ -1,4 +1,4 @@
-# Etape 8 : Les Houches - Bionassay
+# Etape 8 : Les Houches - Les Contamines
 
 ## L'itinéaire
 
