@@ -1,4 +1,4 @@
-# Etape 3 : Chappelle d'abondance - Refuge de Chéséry
+# Etape 3 : Chapelle d'abondance - Refuge de Chéséry
 
 ## L'tinéraire
 
