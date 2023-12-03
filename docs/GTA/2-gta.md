@@ -1,4 +1,4 @@
-# Etape 2 : Chalet de Bise - Trebenttaz
+# Etape 2 : Novel - Chameppelle d'abondance (ou Trebentaz ?)
 
 ## L'itinéraire
 
@@ -6,8 +6,6 @@
 
 
 ## Logistique
-[Refuge Trebentaz](http://refugetrebentaz.canalblog.com/) ATTENTION : 2 emplacements de tente.
-
 
 
 ## Les photos
