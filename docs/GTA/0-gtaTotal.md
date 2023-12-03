@@ -1,6 +1,7 @@
 # La GTA (Grande Traversée des Alpes)
 
-La GTA, du lac Léman à la Méditerranée, en un clin d'oeil, mais en deux ans. On fait ça pour nos 50 ans respectifs. La première moitié en 2024 (50 ans de Jérôme), de Saint Gingolph à Modane, et la seconde en 2025 (50 ans de Céline), de Modane à Menton.
+La GTA, du lac Léman à la Méditerranée, en un clin d'oeil, mais en deux ans. 
+Environ 600 km On fait ça pour nos 50 ans respectifs. La première moitié en 2024 (50 ans de Jérôme), de Saint Gingolph à Modane, et la seconde en 2025 (50 ans de Céline), de Modane à Menton.
 On peut zoomer ('+' ou molette souris) et déplacer la carte en cliquant dessus.
  [toto](https:///www.lemonde.fr)
 
