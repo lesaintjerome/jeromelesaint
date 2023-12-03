@@ -1,4 +1,4 @@
-# Etape 2 : Novel - Chameppelle d'abondance (ou Trebentaz ?)
+# Etape 2 : Novel - Chapelle d'abondance (ou Trebentaz ?)
 
 ## L'itinéraire
 
