@@ -1,4 +1,4 @@
-# Etape 4 : Refuge de Chésery - Refuge de Golèse
+# Etape 4 : Refuge de Chésery - Refuge de la Golèse
 
 ## L'itinéraire
 
