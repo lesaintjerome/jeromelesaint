@@ -9,7 +9,8 @@
 
 
 ## Logistique
-Bellachat : petit [refuge] (https://www.refuge-bellachat.com/), pas de bivouac autorisé ? 
+Bellachat : petit [refuge] (https://www.refuge-bellachat.com/), pas de bivouac autorisé ?
+
 Les Houches. Logement à l'hotel ou au [camping Bellevue] (http://www.camping-bellevue-leshouches.com/).
 
 ## Les photos
