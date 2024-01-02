@@ -13,7 +13,7 @@ D+ : 1442m
 D- : 479m
 
 
-## Logistique
+## Hébergement
 
 [Réfuge de chésery](https://www.lacvert.ch/fr/r%C3%A9servation/) : CASH uniquement. Camping interdit autour du réfuge. En Suisse. 35 places.
 
