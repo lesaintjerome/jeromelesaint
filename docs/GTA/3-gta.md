@@ -1,4 +1,4 @@
-# Etape 3 : Chapelle d'Abondance - Refuge de Chésery
+# Etape 3 : Chapelle d'Abondance - Refuge de Chésery (Suisse)
 
 ## L'tinéraire
 
