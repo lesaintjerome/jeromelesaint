@@ -9,6 +9,9 @@
 <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.715711483237603,45.77387162000133&z=12&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4925440(1)&permalink=yes" allowfullscreen></iframe>
 
 
+## Logistique
+Logement au [camping le Pontet[(https://www.campinglepontet.fr/)
+
 ## Le profil
 
 ## Les photos
