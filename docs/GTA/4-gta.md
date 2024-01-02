@@ -6,7 +6,7 @@
 
 ## Hébergement
 
-[Refuge de golèse](https://www.refuge-golese.com/).
+[Refuge de la golèse](https://www.refuge-golese.com/).
 Pas d'info sur le bivouac (mais a priori possible pour 8-10 tentes). Chambres individuelles possibles. 64 places en tout.
 A contacter pour plus d'infos.
 
