@@ -12,7 +12,9 @@
 
 ## Logistique
 [Refuge la croix du Bonhomme](https://refugecroixdubonhomme.ffcam.fr/home.html) 
-Vérifier si bivouac autorisé
+105 places
+bivouac autorisé
+pas de CB
 
 ## Le profil
 
