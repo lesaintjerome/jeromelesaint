@@ -8,6 +8,7 @@
 
 ## Hébergement
 [Refuge Entre Deux Eaux](https://www.refuges-vanoise.com/fiche-hebergement-entre-deux-eaux-tour-des-glaciers-de-la-vanoise-vanoise-60n5h5vonly9.html)
+Bivouac possible
 
 ## Le profil
 
