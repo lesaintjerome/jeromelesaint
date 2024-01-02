@@ -7,7 +7,7 @@
 ## Logisitique
 
 [Refuge de Moede-Anterne](https://www.monrefugepaysdumontblanc.com/fr/il4-refuge_i48796-refuge-moede-anterne.aspx)
-91 places. Bivouac poossible (nombreuses places).
+91 places. Bivouac possible (nombreuses places).
 
 
 
