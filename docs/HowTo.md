@@ -12,6 +12,13 @@ La recette qui suit n'est pas accessible à tout le monde. Il faut quelques conn
 - La génération du site ainsi que sa publication en ligne est faite par la plateforme `GitHub`.
 - `GitHub` est une plateforme de développement informatique collaboratif.
 
+Quelques commandes de base pour démarrer avec `mkdoc`.:
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+
+
 ## How to?
 
 It requires:
