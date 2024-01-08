@@ -1,6 +1,6 @@
 # mkdoc-site
 
-I did this website with mkdoc from scratch with the (brilliant) tutorial video at [here](https://www.youtube.com/watch?v=Q-YA_dA8C20).
+I did this website with `mkdoc` from scratch with the (brilliant) tutorial video at [here](https://www.youtube.com/watch?v=Q-YA_dA8C20).
 
 It requires .
 - Create a Github repo and clone it locally
