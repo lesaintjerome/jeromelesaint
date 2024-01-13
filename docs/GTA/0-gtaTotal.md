@@ -2,7 +2,7 @@
 
 La GTA en un clin d'oeil, mais en 2 ans ! 
 
-la GTA c'est la traversée des Alpes françaises à pied via le GR5, du Lac Léman à la Méditerranée, soit environ 600 km, 32000 mètres de dénivelé positif (et autant de dénivelé négatif !), 55 cols à franchir ... En tout cela représente 30 à 40 jours de marche, que l'on projette de faire pour fêter nos 50 ans respectifs, mais en 2 ans - ça tombe bien, nous ne sommes pas nés la même année ! La moitié nord en 2024, de Saint Gingolph à Modane, et la partie sud en 2025, de Modane à Menton.
+la GTA c'est la traversée des Alpes françaises à pied via le GR5, du Lac Léman à la Méditerranée, soit environ 600 km, 32000 mètres de dénivelé positif (et autant de dénivelé négatif !), 55 cols à franchir ... Cela représente 30 à 40 jours de marche en tout, que l'on projette de faire pour fêter nos 50 ans respectifs, mais en 2 ans - ça tombe bien, nous ne sommes pas nés la même année ! La moitié nord en 2024, de Saint Gingolph à Modane, et la partie sud en 2025, de Modane à Menton.
 
 Dates prévues : du 27 juillet au 11 août 2024 pour la première partie
 
