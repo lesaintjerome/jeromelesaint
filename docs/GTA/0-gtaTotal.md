@@ -7,6 +7,7 @@ la GTA c'est la traversée des Alpes françaises à pied via le GR5, du Lac Lém
 Dates prévues : du 27 juillet au 11 août 2024 pour la première partie
 
 Rejoignez-nous ! Pour 1 ou 2 ou 3 jours, venez marcher avec nous !
+Accès possibles : Saint Gingolph (départ), la Chapelle d'Abondance, Samoens, Sixt Fer à Cheval, Les Houches, Les Contamines, Le Cormet de Roselend, Landry (entre Aime et Bourg Saint Maurice), Peysey-Nancroix, Tignes, Aussois
 
 Le parcours total en un clin d'oeil ci-dessous, et le détail étape par étape de la partie nord dans les pages suivantes (profil, distance et dénivelé), avec les nombreux points d'accés au GR5 et les hébergements ciblés - on va mixer bivouac (avec dîner en refuge le plus souvent) et refuges ou auberges. Si ça vous botte contactez-nous que l'on s'organise ! Les refuges des Alpes sont pris d'assaut en août, il faut réserver tôt. 
 
