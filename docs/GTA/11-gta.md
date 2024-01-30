@@ -1,12 +1,9 @@
 # Etape 11 : Refuge de Balme - Refuge de Rosuel
 
 ## L'itinéraire
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.635726980350499,45.6587059808206&z=13&l0=ORTHOIMAGERY.ORTHOPHOTOS::GEOPORTAIL:OGC:WMTS(0;h)&l1=n_vent_iso_l(0;h)&l2=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l3=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d4=4850583(1)&permalink=yes" allowfullscreen></iframe>
 
+<iframe src="https://gpx.studio/?state=%7B%22ids%22:%5B%221HieFAL5cmwFNaHo3_r_eOK824aNC4S2q%22%5D%7D&embed&distance" width="100%" height="500" frameborder="0" allowfullscreen><p><a href="https://gpx.studio/?state=%7B%22ids%22:%5B%221HieFAL5cmwFNaHo3_r_eOK824aNC4S2q%22%5D%7D"></a></p></iframe>
 
-## Itinéraire bis
-
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.86955880566953,45.48647489245212&z=13&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4925449(1)&permalink=yes" allowfullscreen></iframe>
 
 ## Hébergement
 [Refuge de Rosuel](https://refuge-rosuel.vanoise.com/)

@@ -2,13 +2,7 @@
 
 ## L'itinéraire
 
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.71321968610912,45.814377458842586&z=13&l0=ORTHOIMAGERY.ORTHOPHOTOS::GEOPORTAIL:OGC:WMTS(0;h)&l1=n_vent_iso_l(0;h)&l2=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l3=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d4=4850579(1)&permalink=yes" allowfullscreen></iframe>
-
-## Itinéraire bis
-
-## Itinéraire bis
-
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.692892052029316,45.67887706107433&z=13&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d2=4925443(1)&permalink=yes" allowfullscreen></iframe>
+<iframe src="https://gpx.studio/?state=%7B%22ids%22:%5B%221u4T7YFu7Qw3o6aZ1Im2cGMNw42hVC32Z%22%5D%7D&embed&distance" width="100%" height="500" frameborder="0" allowfullscreen><p><a href="https://gpx.studio/?state=%7B%22ids%22:%5B%221u4T7YFu7Qw3o6aZ1Im2cGMNw42hVC32Z%22%5D%7D"></a></p></iframe>
 
 ## Hébergement
 [Refuge la croix du Bonhomme](https://refugecroixdubonhomme.ffcam.fr/home.html) 

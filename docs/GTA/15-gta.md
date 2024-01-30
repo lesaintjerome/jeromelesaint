@@ -1,6 +1,12 @@
-# Etape 15 : Plan-sec - Modane
-## L'itinéaire
-<iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.801292163204678,45.35892973301878&z=13&l0=ORTHOIMAGERY.ORTHOPHOTOS::GEOPORTAIL:OGC:WMTS(0;h)&l1=n_vent_iso_l(0;h)&l2=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&l3=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(0;h)&d4=4850595(1)&permalink=yes" allowfullscreen></iframe>
+# Etape 15 : Plan-sec - Modane (ou Arpont-Aussois)
+## L'itinéaire : Plan-Sec - Modane
+
+<iframe src="https://gpx.studio/?state=%7B%22ids%22:%5B%221U7rXsVULSIyzAfHbdBV1CcExGCumZmoN%22%5D%7D&embed&distance" width="100%" height="500" frameborder="0" allowfullscreen><p><a href="https://gpx.studio/?state=%7B%22ids%22:%5B%221U7rXsVULSIyzAfHbdBV1CcExGCumZmoN%22%5D%7D"></a></p></iframe>
+
+## Itinéraire bis : Arpont - Aussois
+Sur la carte ci-dessous, la trace va jusqu'au refuge de Plan-Sec. Mais il sera facile de descendre à Aussois (puis de rejoindre Modane par des moyens motorisés...)
+
+<iframe src="https://gpx.studio/?state=%7B%22ids%22:%5B%221u5seUmYLXiAdOCSSeWT7luzNFe65EbY1%22%5D%7D&embed&distance" width="100%" height="500" frameborder="0" allowfullscreen><p><a href="https://gpx.studio/?state=%7B%22ids%22:%5B%221u5seUmYLXiAdOCSSeWT7luzNFe65EbY1%22%5D%7D"></a></p></iframe>
 
 
 ## Fin de la 1ère partie !
