@@ -60,24 +60,22 @@ nav:
 - How To: HowTo.md
 - La GTA:
   - La GTA: GTA/0-gtaTotal.md
-  - Etape 1 - Saint Gingolphe - Chalet de Bise: GTA/1-gta.md
-  - Etape 2 - Chalet de Bise - Trebenttaz: GTA/2-gta.md
-  - Etape 3 - Trabenttaz - Refuge de Chéséry: GTA/3-gta.md
+  - Etape 1 - Saint Gingolphe - Novel: GTA/1-gta.md
+  - Etape 2 - Novel - La Chapelle d'abondance: GTA/2-gta.md
+  - Etape 3 - La CHapelle d'abondance - Refuge de Chéséry: GTA/3-gta.md
   - Etape 4 - Chéséry - Refuge Golèse: GTA/4-gta.md
   - Etape 5 - Golèse - Gite Salvagny: GTA/5-gta.md
   - Etape 6 - Salvagny - Moede Anterne: GTA/6-gta.md
   - Etape 7 - Moede Anterne - Les Houches: GTA/7-gta.md
-  - Etape 8 - Les Houches - Bionassay: GTA/8-gta.md
-  - Etape 9 - Bionassay - Refuge Nant Borrant: GTA/9-gta.md
-  - Etape 10 - Nant Barrant - Plan de la Lai: GTA/10-gta.md
-  - Etape 11 - Plan de la Lai - Refuge de Balme: GTA/11-gta.md
-  - Etape 12 - Balme - Peysey Nancroix: GTA/12-gta.md
-  - Etape 13 - Peysey Nancrois - Col du Palet: GTA/13-gta.md
-  - Etape 14 - Col du Palet - Refuge de la Leisse: GTA/14-gta.md
-  - Etape 15 - Leisse - Arpont: GTA/15-gta.md
-  - Etape 16 - Arpont - Plan Sec: GTA/16-gta.md
-  - Etape 17 - Plan sec - Modane: GTA/17-gta.md
-
+  - Etape 8 - Les Houches - Les Contamines: GTA/8-gta.md
+  - Etape 9 - Les Contamines - Croix du bonhomme: GTA/9-gta.md
+  - Etape 10 - Croix du bonhomme - Balme: GTA/10-gta.md
+  - Etape 11 - Refuge de Balme - Rosuel: GTA/11-gta.md
+  - Etape 12 - Rosuel - Tignes: GTA/12-gta.md
+  - Etape 13 - Tignes - Entre-2-eaux: GTA/13-gta.md
+  - Etape 14 - Entre-2-eaux - Arpont: GTA/14-gta.md
+  - Etape 15 - Arpont - Aussois: GTA/15-gta.md
+- Randos: Randos.md
 
 extra:
   social:
@@ -86,5 +84,5 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jerome-lesaint-52813a5/
 
-copyright: Copyright &copy; 2023 Jérome Lesaint
+copyright: Copyright &copy; 2024 Jérome Lesaint
   

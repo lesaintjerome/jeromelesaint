@@ -1,5 +1,4 @@
 * [Welcome](index.md)
-* [How To](HowTo.md)
 * [La GTA](GTA/0-gtaTotal.md)
     * [Etape 1 : Saint Gingolphe - Novel](GTA/1-gta.md)
     * [Etape 2 : Novel - La Chapelle d'Abondance](GTA/2-gta.md)
@@ -15,6 +14,10 @@
     * [Etape 12 : Rosuel - Tignes](GTA/12-gta.md)
     * [Etape 13 : Tignes - Entre-deux-eaux](GTA/13-gta.md)
     * [Etape 14 : Entre-deux-eaux - Plan-Sec](GTA/14-gta.md)
-    * [Etape 15 : Plan-sec - Modane](GTA/15-gta.md)
-* [What Puzzles Me](WhatPuzzlesMe.md)
+    * [Etape 15 : Plan-sec - Aussois/Modane](GTA/15-gta.md)
 * [Randos](Randos.md)
+
+<!---
+* [How To](HowTo.md)
+* [What Puzzles Me](WhatPuzzlesMe.md)
+-->
