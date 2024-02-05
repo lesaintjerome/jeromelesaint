@@ -6,5 +6,5 @@
 
 
 ## Hébergement
-Logement au [camping le Pontet[(https://www.campinglepontet.fr/)
+Logement au [camping le Pontet](https://www.campinglepontet.fr/)
 

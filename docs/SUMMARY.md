@@ -6,7 +6,7 @@
     * [Etape 4 : Chésery - Golèse](GTA/4-gta.md)
     * [Etape 5 : Golèse - Salvagny](GTA/5-gta.md)
     * [Etape 6 : Salvagny - Moede Anterne](GTA/6-gta.md)
-    * [Etape 7 : Moede Anterne - Bellachat ou Les Houches](GTA/7-gta.md)
+    * [Etape 7 : Moede Anterne - Les Houches](GTA/7-gta.md)
     * [Etape 8 : Les Houches - Les Contamines](GTA/8-gta.md)
     * [Etape 9 : Les Contamines - Croix du Bonhomme](GTA/9-gta.md)
     * [Etape 10 : Croix du Bonhomme - Balme](GTA/10-gta.md)
