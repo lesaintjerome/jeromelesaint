@@ -6,4 +6,4 @@
 ## Hébergement
 [Refuge Entre Deux Eaux](https://www.refuges-vanoise.com/fiche-hebergement-entre-deux-eaux-tour-des-glaciers-de-la-vanoise-vanoise-60n5h5vonly9.html)
 Bivouac possible
-
+Attention on est dans le Parc de la Vanoise, bivouac autorisé uniquement sur zone à côté du refuge
