@@ -20,4 +20,5 @@
 ## Hébergement
 [ferme auberge le Féto](https://www.lefeto.com/fr/)
 ou [chambre d'hôte la petite bergerie](https://www.lapetitebergerie.org/)
+ou camping
 
