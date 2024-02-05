@@ -7,4 +7,5 @@
 [Refuge communal de la Balme](http://www.refuge-balme-tarentaise.fr/)
 Bivouac
 pas de CB
+(Attention ne pas confondre avec refuge de la Balme sur le tour du Mont Blanc)
 
