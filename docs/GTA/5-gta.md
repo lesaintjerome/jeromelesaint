@@ -9,5 +9,5 @@
 ## Hébergement
 [Gite de salvagny](https://www.aubergedesalvagny.com/).
 Salvagny est sur le GR, mais pas Sixt-Fer à cheval. D'autres hébergements à Sixt, mais pas à Salvagny(??)
-Ou stop à verchaix chez Romain !
+Ou stop à Verchaix chez Romain ?
 
