@@ -8,6 +8,3 @@
 ## Hébergement
 Logement au [camping le Pontet[(https://www.campinglepontet.fr/)
 
-## Le profil
-
-## Les photos

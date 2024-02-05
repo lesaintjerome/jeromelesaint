@@ -10,6 +10,3 @@
 bivouac autorisé
 pas de CB
 
-## Le profil
-
-## Les photos

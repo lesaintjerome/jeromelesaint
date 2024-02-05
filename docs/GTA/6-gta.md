@@ -10,6 +10,3 @@
 91 places. Bivouac possible (nombreuses places).
 
 
-
-
-## Les photos

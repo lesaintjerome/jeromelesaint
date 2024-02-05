@@ -6,6 +6,3 @@
 ## Hébergement
 Hôtel Tignes le lac ou Tignes Val Claret
 
-## Le profil
-
-## Les photos

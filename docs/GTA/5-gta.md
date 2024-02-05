@@ -11,5 +11,3 @@
 Salvagny est sur le GR, mais pas Sixt-Fer à cheval. D'autres hébergements à Sixt, mais pas à Salvagny(??)
 
 
-
-## Les photos

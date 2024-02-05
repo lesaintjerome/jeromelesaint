@@ -8,6 +8,3 @@
 Bivouac
 pas de CB
 
-## Le profil
-
-## Les photos

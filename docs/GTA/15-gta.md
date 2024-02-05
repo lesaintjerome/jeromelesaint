@@ -12,6 +12,3 @@ Sur la carte ci-dessous, la trace va jusqu'au refuge de Plan-Sec. Mais il sera f
 ## Fin de la 1ère partie !
 Retour Grenoble en train ou bus depuis Modane
 
-## Le profil
-
-## Les photos

@@ -10,6 +10,3 @@ Cette première étape nous emène de Saint Gingolphe à la frontière franco-su
 Novel.
 L'[auberge les chemins du Léman](https://www.les-chemins-du-leman.com/). La seule possible. Pas de bivouac possible. A réserver dès que dates fixées.
 
-
-
-## Les photos

@@ -12,7 +12,3 @@
 ## Hébergement
 [Refude de plan sec](https://www.refuges-vanoise.com/fiche-hebergement-plan-sec-tour-des-glaciers-de-la-vanoise-vanoise-1v05a3s518nq.html)
 Bivouac possible
-
-## Le profil
-
-## Les photos
