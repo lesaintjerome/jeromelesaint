@@ -1,4 +1,4 @@
-# Etape 14 : Entre-2-eaux - Plan-Sec (ou Arpont)
+# Etape 14 : Entre-2-eaux - Plan-Sec (ou Arpont) : vendredi 16 aout 2024
 
 ## L'itinéraire : Entre-2-eaux - Plan-Sec
 

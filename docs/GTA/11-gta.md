@@ -1,4 +1,4 @@
-# Etape 11 : Refuge de Balme - Refuge de Rosuel
+# Etape 11 : Refuge de Balme - Refuge de Rosuel : mardi 13 aout 2024
 
 ## L'itinéraire
 

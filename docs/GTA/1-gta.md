@@ -1,4 +1,4 @@
-# Etape 1 : Saint Gingolphe - Novel
+# Etape 1 : Saint Gingolphe - Novel : samedi 3 aout 2024
 
 ## L'itinéraire
 

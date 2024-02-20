@@ -1,4 +1,4 @@
-# Etape 4 : Refuge de Chésery - Refuge de la Golèse
+# Etape 4 : Refuge de Chésery - Refuge de la Golèse : mardi 6 aout 2024
 
 ## L'itinéraire
 

@@ -1,4 +1,4 @@
-# Etape 2 : Novel - Chapelle d'abondance
+# Etape 2 : Novel - Chapelle d'abondance : dimanche 4 aout 2024
 
 ## L'itinéraire
 

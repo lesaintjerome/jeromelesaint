@@ -1,4 +1,4 @@
-# Etape 3 : Chapelle d'Abondance - Refuge de Chésery (Suisse)
+# Etape 3 : Chapelle d'Abondance - Refuge de Chésery (Suisse) : lundi 5 aout 2024
 
 ## L'tinéraire
 

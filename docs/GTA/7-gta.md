@@ -1,4 +1,4 @@
-# Etape 7 : Moede Anterne - Les Houches
+# Etape 7 : Moede Anterne - Les Houches : vendredi 9 aout 2024
 
 ## L'itinéraire
 

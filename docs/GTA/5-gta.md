@@ -1,4 +1,4 @@
-# Etape 5 : Golèse - Salvagny
+# Etape 5 : Golèse - Salvagny : mercredi 7 aout 2024
 
 ## L'itinéraire
 
