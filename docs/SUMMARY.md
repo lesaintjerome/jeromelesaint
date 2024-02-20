@@ -13,8 +13,9 @@
     * [Etape 11 : Balme - Rosuel](GTA/11-gta.md)
     * [Etape 12 : Rosuel - Tignes](GTA/12-gta.md)
     * [Etape 13 : Tignes - Entre-deux-eaux](GTA/13-gta.md)
-    * [Etape 14 : Entre-deux-eaux - Plan-Sec](GTA/14-gta.md)
-    * [Etape 15 : Plan-sec - Aussois/Modane](GTA/15-gta.md)
+    * [Etape 14 : Entre-deux-eaux - Arpont](GTA/14-gta.md)
+    * [Etape 15 : Arpont - Plan-sec](GTA/15-gta.md)
+    * [Etape 16 : (optionnelle) Plan-sec - Aussois/Modane](GTA/15-gta.md)
 * [Randos](Randos.md)
 
 <!---
