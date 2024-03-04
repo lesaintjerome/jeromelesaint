@@ -7,5 +7,5 @@
 
 ## Hébergement
 [Refuge de Rosuel](https://refuge-rosuel.vanoise.com/)
-Bivouac (mais sans repas ? A vérifier)
+Bivouac possible
 
