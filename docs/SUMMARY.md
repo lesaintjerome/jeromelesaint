@@ -17,8 +17,6 @@
     * [Etape 15 : Arpont - Plan-sec](GTA/15-gta.md)
     * [Etape 16 : (optionnelle) Plan-sec - Aussois/Modane](GTA/15-gta.md)
 * [Randos](Randos.md)
-
-<!---
 * [How To](HowTo.md)
-* [What Puzzles Me](WhatPuzzlesMe.md)
--->
+* [Lectures](Lectures.md)
+<!--* [What Puzzles Me](WhatPuzzlesMe.md)-->

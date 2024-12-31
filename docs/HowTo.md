@@ -27,7 +27,7 @@ It requires:
   - Create and activate a virtual env and `pip install mkdocs-material`.
   - Cd to the clone dir.
   - `mkdoc new .` to generate mkdocs.yaml and doc/index.md (the very basic structure of the site)
-  - Serve the site locally with `mkdoc serve`. The command will provide a http adress to copy in the adress bar of the brwoser.
+  - Serve the site locally with `mkdoc serve`. The command will provide a http adress to copy in the adress bar of the browser.
   - Build up the site and check it on the locally served pages.
   - Create the github action (i.e. the `.github/workflows/ci.yml`).
   - Commit/push to the GH repo.
