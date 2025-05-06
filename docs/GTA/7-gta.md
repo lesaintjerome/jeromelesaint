@@ -1,4 +1,4 @@
-# Etape 7 : Moede Anterne - Les Houches : vendredi 9 aout 2024
+# Etape 7 : Moede Anterne - Les Houches : vendredi 15 aout 2025
 
 ## L'itinéraire
 
@@ -6,7 +6,5 @@
 
 
 ## Hébergement
-Bellachat : petit [refuge](https://www.refuge-bellachat.com/), pas de bivouac autorisé ?
-
-Les Houches. Logement à l'hotel ou au [camping Bellevue](http://www.camping-bellevue-leshouches.com/).
+Argentière chez les copains
 
