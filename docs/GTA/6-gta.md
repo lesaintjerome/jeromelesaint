@@ -1,4 +1,4 @@
-# Etape 6 : Salvagny - Moede Anterne : jeudi 8 aout 2024
+# Etape 6 : Salvagny - Moede Anterne : jeudi 14 aout 2025
 
 ## L'itinéraire
 
