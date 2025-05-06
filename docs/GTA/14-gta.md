@@ -1,4 +1,4 @@
-# Etape 14 : Entre-2-eaux - Arpont : vendredi 16 aout 2024
+# Etape 14 : Entre-2-eaux - Arpont : vendredi 22 aout 2025
 
 ## L'itinéraire : Entre-2-eaux - Arpont
 
