@@ -1,4 +1,4 @@
-# Etape 9 : Les Contamines - La Croix du Bonhomme : dimanche 11 aout 2024
+# Etape 9 : Les Contamines - La Croix du Bonhomme : dimanche 17 aout 2025
 
 ## L'itinéraire
 
