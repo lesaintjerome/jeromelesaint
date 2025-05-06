@@ -6,7 +6,7 @@ Après un non départ en 2025, on retente cette année !
 
 la GTA c'est la traversée des Alpes françaises à pied via le GR5, du Lac Léman à la Méditerranée, soit environ 600 km, 32000 mètres de dénivelé positif (et autant de dénivelé négatif !), 55 cols à franchir ... Cela représente 30 à 40 jours de marche en tout, que l'on projette de faire pour fêter nos 50 ans respectifs, mais en 2 ans - ça tombe bien, nous ne sommes pas nés la même année ! La moitié nord en 2025, de Saint Gingolph à Modane, et la partie sud en 2026, de Modane à Menton.
 
-Dates prévues : du samedi 2 au dimanche 17 août 2025 pour la première partie
+Dates prévues : du samedi 9 au dimanche 24 août 2025 pour la première partie
 
 Rejoignez-nous ! Pour 1 ou 2 ou 3 jours, venez marcher avec nous !
 Accès possibles : Saint Gingolph (départ), la Chapelle d'Abondance, Samoens, Sixt Fer à Cheval, Les Houches, Les Contamines, Le Cormet de Roselend, Landry (entre Aime et Bourg Saint Maurice), Peysey-Nancroix, Tignes, Aussois
