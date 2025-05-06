@@ -1,4 +1,4 @@
-# Etape 15 : Plan-sec - Modane : dimanche 18 aout 2024
+# Etape 15 : Plan-sec - Modane : dimanche 24 aout 2025
 
 Cette dernière étape pourra peut-être "sauter" si on doit décaler d'un jour. Auquel cas, l'étape 15 s'achèvera par une redescente directe sur Aussois, puis Modane par la route.
 
