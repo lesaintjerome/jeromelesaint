@@ -1,4 +1,4 @@
-# Etape 8 : Les Houches - Les Contamines : samedi 10 aout 2024
+# Etape 8 : Les Houches - Les Contamines : samedi 16 aout 2025
 
 ## L'itinéraire
 
@@ -6,5 +6,5 @@
 
 
 ## Hébergement
-Logement au [camping le Pontet](https://www.campinglepontet.fr/)
+Logement au [chalet Nant Rouge](https://chaletnantrouge.fr/)
 
