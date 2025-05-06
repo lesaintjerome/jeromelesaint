@@ -1,4 +1,4 @@
-# Etape 2 : Novel - Chapelle d'abondance : dimanche 3 aout 2025
+# Etape 2 : Novel - Chapelle d'abondance : dimanche 10 aout 2025
 
 ## L'itinéraire
 
