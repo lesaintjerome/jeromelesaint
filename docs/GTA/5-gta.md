@@ -1,4 +1,4 @@
-# Etape 5 : Golèse - Salvagny : mercredi 6 aout 2025
+# Etape 5 : Golèse - Salvagny : mercredi 13 aout 2025
 
 ## L'itinéraire
 
@@ -6,6 +6,6 @@
 
 ## Hébergement
 [Gite de salvagny](https://www.aubergedesalvagny.com/).
-Salvagny est sur le GR, mais pas Sixt-Fer à cheval. D'autres hébergements à Sixt, mais pas à Salvagny(??)
-Ou stop à Verchaix chez Romain ?
+
+Passage à proximité de Verchaix chez Romain
 
