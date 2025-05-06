@@ -1,4 +1,4 @@
-# Etape 15 : Plan-sec - Modane (ou Arpont-Aussois) : samedi 17 aout 2024
+# Etape 15 : Plan-sec - Modane (ou Arpont-Aussois) : samedi 23 aout 2025
 
 
 ## Itinéraire : Arpont - Plan-sec
