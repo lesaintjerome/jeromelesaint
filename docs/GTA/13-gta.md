@@ -1,4 +1,4 @@
-# Etape 13 : Tignes - Entre-2-eaux : jeudi 15 aout 2024
+# Etape 13 : Tignes - Entre-2-eaux : jeudi 21 aout 2025
 
 ## L'itinéraire
 
