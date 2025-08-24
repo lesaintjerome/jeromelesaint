@@ -82,3 +82,8 @@ Sans doute une chouette traversée, qu'on avait prévue un jour de Coupe Icare :
 ## [Belledonne] Les Grands Moulins depuis Val Pelouse
 
 <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" sandbox="allow-forms allow-scripts allow-same-origin" src="https://www.geoportail.gouv.fr/embed/visu.html?c=6.18969354534338,45.41103017128347&z=14&l0=GEOGRAPHICALGRIDSYSTEMS.MAPS::GEOPORTAIL:OGC:WMTS(1)&l1=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV::GEOPORTAIL:OGC:WMTS(1)&d2=5254672(1)&permalink=yes" allowfullscreen></iframe>
+
+## [Ailleurs] Le tour de la Vallaisonnay (Vanoise)
+
+<iframe src="https://gpx.studio/embed?options=%7B%22token%22%3A%22pk.eyJ1Ijoiamxlc2FpbnQiLCJhIjoiY21lcHgybzRqMGt6dDJscXZ3c3kxbnRzaSJ9.ncaZnlQjARWT54AMgMcVMA%22%2C%22ids%22%3A%5B%2211QFU2MuyZE19f1b2n5al2NhbRbfN5cX4%22%5D%7D" width="100%" height="600px" frameborder="0" style="outline: none;"/>
+
