@@ -39,6 +39,9 @@ The CI then processes the required action and in `Actions/pages build and deploy
 ## A propos des cartes IGN et des traces.
 
 - Pour faire les traces GPX, [GPXStudio](https://gpx.studio/) est pas mal du tout. En pointant sur des points sur les chemins identifiés sur le fonds de carte, il créé l'itinéraire. La trace GPX peut ensuite être exportée.
+- On peut generer le bout de code a inserer pour afficher les cartes, traces et profil alti. Assez intuitif une fois qu'on a trouvé la page : il faut aller dans Aide depuis la page accueil, puis Intégration. Saisir le token MapBox (see [mapbox](https://www.mapbox.com), user: lesaint.jerome@gmail.com), account overview.
+
+Alternative pour générer les cartes avec Geoportail:
 - Pour générer les fonds de carte, tout se fait dans le [Geoportail](https://www.geoportail.gouv.fr):
   - Avec un compte, on peut uploader les traces GPX (qui seront conservées dans le compte).
   - Les traces GPX sont alors accessibles comme fond de carte.
