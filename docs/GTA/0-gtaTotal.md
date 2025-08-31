@@ -16,3 +16,5 @@ Le parcours 2025 en un clin d'oeil ci-dessous, et le détail étape par étape d
 On peut zoomer ('+' ou molette souris) et déplacer la carte en cliquant dessus.
 
 <iframe src="https://gpx.studio/?state=%7B%22ids%22:%5B%221LsHgB2no65i54qBYpu1Bcx-vGrU1td2y%22%5D%7D&embed" width="100%" height="500" frameborder="0" allowfullscreen><p><a href="https://gpx.studio/?state=%7B%22ids%22:%5B%221LsHgB2no65i54qBYpu1Bcx-vGrU1td2y%22%5D%7D"></a></p></iframe>
+
+<iframe src="https://gpx.studio/embed?options=%7B%22token%22%3A%22pk.eyJ1Ijoiamxlc2FpbnQiLCJhIjoiY21lcHgybzRqMGt6dDJscXZ3c3kxbnRzaSJ9.ncaZnlQjARWT54AMgMcVMA%22%2C%22ids%22%3A%5B%221LsHgB2no65i54qBYpu1Bcx-vGrU1td2y%22%5D%7D" width="100%" height="600px" frameborder="0" style="outline: none;"/>
