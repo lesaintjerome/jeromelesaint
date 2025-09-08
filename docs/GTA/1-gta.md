@@ -14,7 +14,7 @@ Novel est un magnifique petit village perché sur les flancs d'une jolie vallée
 ## Récit
 
 ***Samedi 9 aout - Jour 1***
-Train de Gières à Evian (via Bellegarde). Puis bud d'Evian à Saint Gingolphe. On discute avec plein de gens charmants dans le bus qui nous indiquent un spot de baignade à l'entrée de Saint Gingolphe. Diven, par la température du jour. Départ officiel du GR5 (très bien marqué) sur a frontière franco-suisse. Une heure et demi de montée tranquille (mais suffisante pour se rendre compte qu'on n'est pas en super forme...) à l'ombre pour rejoindre Novel. Village perché, vue magnifique còté suisse, vieille église très jolie. Accueil à l'hotel très sympa. Repas parfait. On n'a pas résisté à fêter notre départ avec un petit verre de blanc (et ce ne sera pas le dernier...). Partie scrabble et nuit moyenne.
+Train de Gières à Evian (via Bellegarde). Puis bus d'Evian à Saint Gingolphe. On discute avec plein de gens charmants dans le bus qui nous indiquent un spot de baignade à l'entrée de Saint Gingolphe. Divin, par la température du jour. Départ officiel du GR5 (très bien marqué) sur la frontière franco-suisse. Une heure et demi de montée tranquille (mais suffisante pour se rendre compte qu'on n'est pas en super forme...) à l'ombre pour rejoindre Novel. Village perché, vue magnifique coté suisse, vieille église très jolie. Accueil à l'hotel très sympa. Repas parfait. On n'a pas résisté à fêter notre départ avec un petit verre de blanc (et ce ne sera pas le dernier...). Partie scrabble et nuit moyenne.
 
 <div style="display:flex; gap:10px; flex-wrap:wrap;">
 <a href="../../Images/GTA1/webp/Jour1/IMG_2355.webp"><img src="../../Images/GTA1/webp/Jour1/IMG_2355.webp" width="200"></a>
