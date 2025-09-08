@@ -1,4 +1,5 @@
 site_name: Jérome Lesaint
+site_url: https://lesaintjerome.github.io/jeromelesaint
 theme:
   name: material
   features:
