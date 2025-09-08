@@ -32,7 +32,7 @@ def main():
     folder_path_for_md = sys.argv[2].replace("\\", "/")  # Windows compat
     lines_to_add = []
     for img in image_files:
-        img_path = f"{folder_path_for_md}/{img}"
+        img_path = f"../..{folder_path_for_md}/{img}"
         line = f'<a href="{img_path}"><img src="{img_path}" width="200"></a>'
         lines_to_add.append(line)
 
