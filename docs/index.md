@@ -8,7 +8,7 @@ Mes activités de recherche portent sur la tomographie par rayons X et plus spé
 ## Mes sujets de recherche à l'ESRF
 Bien que les contours de mon projet de recherche à l'ESRF soient encore en cours de définition, je vais travailler dans les directions suivantes :
 
--  La tomographie de fluorescence.
+- La tomographie de fluorescence.
 - L'utilisation des outils d'intelligence artificielle en vue de l'amélioration de la qualité des images tomographiques (notamment, correction des artefacts d'anneau dans un premier temps)
 - L'exploration des conditions de rang dans la géométrie d'acquisition d'une ligne synchrotron (i.e. géométrie parallèle), notamment pour la calibration géométrique de l'acquisition.
 

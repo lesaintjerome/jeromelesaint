@@ -61,22 +61,27 @@ nav:
 - Welcome: index.md
 - How To: HowTo.md
 - La GTA:
-  - La GTA: GTA/0-gtaTotal.md
-  - Etape 1 - Saint Gingolphe - Novel: GTA/1-gta.md
-  - Etape 2 - Novel - La Chapelle d'abondance: GTA/2-gta.md
-  - Etape 3 - La CHapelle d'abondance - Refuge de Chéséry: GTA/3-gta.md
-  - Etape 4 - Chéséry - Refuge Golèse: GTA/4-gta.md
-  - Etape 5 - Golèse - Gite Salvagny: GTA/5-gta.md
-  - Etape 6 - Salvagny - Moede Anterne: GTA/6-gta.md
-  - Etape 7 - Moede Anterne - Les Houches: GTA/7-gta.md
-  - Etape 8 - Les Houches - Les Contamines: GTA/8-gta.md
-  - Etape 9 - Les Contamines - Croix du bonhomme: GTA/9-gta.md
-  - Etape 10 - Croix du bonhomme - Balme: GTA/10-gta.md
-  - Etape 11 - Refuge de Balme - Rosuel: GTA/11-gta.md
-  - Etape 12 - Rosuel - Tignes: GTA/12-gta.md
-  - Etape 13 - Tignes - Entre-2-eaux: GTA/13-gta.md
-  - Etape 14 - Entre-2-eaux - Arpont: GTA/14-gta.md
-  - Etape 15 - Arpont - Aussois: GTA/15-gta.md
+  - Partie 1 (été 2025):
+    - Aperçu: GTA/0-gtaTotal.md
+    - Etape 1 - Saint Gingolphe - Novel: GTA/1-gta.md
+    - Etape 2 - Novel - La Chapelle d'abondance: GTA/2-gta.md
+    - Etape 3 - La CHapelle d'abondance - Refuge de Chéséry: GTA/3-gta.md
+    - Etape 4 - Chéséry - Refuge Golèse: GTA/4-gta.md
+    - Etape 5 - Golèse - Gite Salvagny: GTA/5-gta.md
+    - Etape 6 - Salvagny - Moede Anterne: GTA/6-gta.md
+    - Etape 7 - Moede Anterne - Les Houches: GTA/7-gta.md
+    - Etape 8 - Les Houches - Les Contamines: GTA/8-gta.md
+    - Etape 9 - Les Contamines - Croix du bonhomme: GTA/9-gta.md
+    - Etape 10 - Croix du bonhomme - Balme: GTA/10-gta.md
+    - Etape 11 - Refuge de Balme - Rosuel: GTA/11-gta.md
+    - Etape 12 - Rosuel - Tignes: GTA/12-gta.md
+    - Etape 13 - Tignes - Entre-2-eaux: GTA/13-gta.md
+    - Etape 14 - Entre-2-eaux - Arpont: GTA/14-gta.md
+    - Etape 15 - Arpont - Aussois: GTA/15-gta.md
+  - Partie 2 (été 2026):
+    - Aperçu: GTA/moitie2.md
+
+
 - Randos: Randos.md
 
 extra:
