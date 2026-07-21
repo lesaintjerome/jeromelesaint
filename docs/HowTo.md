@@ -41,6 +41,8 @@ The CI then processes the required action and in `Actions/pages build and deploy
 
 - Pour faire les traces GPX, [GPXStudio](https://gpx.studio/) est pas mal du tout. En pointant sur des points sur les chemins identifiés sur le fonds de carte, il créé l'itinéraire. La trace GPX peut ensuite être exportée.
 - On peut generer le bout de code a inserer pour afficher les cartes, traces et profil alti. Assez intuitif une fois qu'on a trouvé la page : il faut aller dans Aide depuis la page accueil, puis Intégration. Saisir le token MapBox (see [mapbox](https://www.mapbox.com), user: lesaint.jerome@gmail.com), account overview.
+- ATTENTION Juillet 2026: visiblement ce n'est plus mapbox mais un autre site (mais j'ai l'impression que ce n'est plus pun prerequis).
+- Ce n'est pas si intuitif que cela: il faut d'abord charger la fichier gpx sur GoogleDrive. Ensuite, il faut recuperer le lien de partage de GDrive puis ne coller dans la zone QUE l'id du fichier (tout supprimer avant et apres). Un peu chiant.
 
 Alternative pour générer les cartes avec Geoportail:
 - Pour générer les fonds de carte, tout se fait dans le [Geoportail](https://www.geoportail.gouv.fr):
