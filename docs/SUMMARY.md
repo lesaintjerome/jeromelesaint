@@ -20,7 +20,10 @@
         * [Etape 16 : (optionnelle) Plan-sec - Aussois/Modane](GTA/15-gta.md)
     * Partie 2 (été 2026)
         * [Aperçu](GTA/moitie2.md)
-* [Randos](Randos.md)
+* Randos diverses
+    * [Dans le coin](Randos.md)
+    * [Le Tour des Aiguilles Rouges - 2023](tar.md)
+    * [Bretagne-2026](crozon.md)
 * [How To](HowTo.md)
 * [Lectures](Lectures.md)
 <!--* [What Puzzles Me](WhatPuzzlesMe.md)-->
