@@ -26,4 +26,5 @@
     * [Bretagne-2026](crozon.md)
 * [How To](HowTo.md)
 * [Lectures](Lectures.md)
+* [Pépites de la Presse](Presse.md)
 <!--* [What Puzzles Me](WhatPuzzlesMe.md)-->
